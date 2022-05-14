@@ -1,4 +1,4 @@
-2. change
+master conflict
 moin das ist ein change
 another change (3 or 4)
 wieder ein change
